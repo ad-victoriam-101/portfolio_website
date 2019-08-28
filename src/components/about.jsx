@@ -48,7 +48,7 @@ export default class About extends Component{
                             <i className="icon-phone3" />
                         </span>
                         <div className="desc">
-                            <h3>Data Structures & Algorithms</h3>
+                            <h3>Data Structures and Algorithms</h3>
                             <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
                         </div>
                         </div>
