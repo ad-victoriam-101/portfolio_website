@@ -39,6 +39,7 @@ export default class About extends Component{
                         <div className="desc">
                             <h3>Web Development </h3>
                             <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                            <p>I am also learning how to build sites though Django and Flask</p>
                         </div>
                         </div>
                     </div>
@@ -49,7 +50,7 @@ export default class About extends Component{
                         </span>
                         <div className="desc">
                             <h3>Data Structures and Algorithms</h3>
-                            <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                            <p>I have taken</p>
                         </div>
                         </div>
                     </div>
